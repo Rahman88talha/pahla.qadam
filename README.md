@@ -1,3 +1,3 @@
-# pahla.qadam
-just started, have no idea about programming, new aspirant.
+# Exploratory Data Analysis
+EDA projects.
 hi this is talha here 
